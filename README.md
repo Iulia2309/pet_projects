@@ -1,1 +1,1 @@
-# pet_projects
+# Мои pet-проекты
